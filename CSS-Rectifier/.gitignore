@@ -1,0 +1,10 @@
+venv
+.idea
+*.pyc
+test.css
+find_css.py
+test.py
+2.htm
+__pycache__/
+templanisator/__pycache__/
+Report file from CSS Rectifiler.html
